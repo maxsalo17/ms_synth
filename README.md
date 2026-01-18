@@ -1,16 +1,11 @@
-# synthesizer
+# MS synth - DIY sound synthesizer app
 
-A new Flutter project.
+Features:
+- 3x Oscillators (with waveforms, voices, detune, level)
+- AHDSR Envelopes
+- Sound wave visualization
+- On screen midi keyboard
+- Hardware keyboard support
 
-## Getting Started
+<img width="1709" height="1000" alt="image" src="https://github.com/user-attachments/assets/b1803b89-5087-42ac-a5bf-a9db431012ef" />
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
