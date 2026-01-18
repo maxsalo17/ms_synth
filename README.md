@@ -1,4 +1,4 @@
-# MS synth - DIY sound synthesizer app
+# MS synth - multi-platform Flutter/Dart based DIY sound synthesizer app
 
 Features:
 - 3x Oscillators (with waveforms, voices, detune, level)
